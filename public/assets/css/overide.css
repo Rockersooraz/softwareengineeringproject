@@ -1,0 +1,15 @@
+.hero .main-navigation {
+    background: #66C0D6;
+    z-index: 999;
+    position: relative;}
+
+    .items:not(.selectize-input) .item .wrapper {
+    width: 100%;
+    height: 100%;
+}
+.item:not(.selectize-input) .item .image {
+    height: 11rem;
+    position: relative;
+    border-top-left-radius: .6rem;
+    border-top-right-radius: .6rem;
+    background-color: #f8f8f8;}
